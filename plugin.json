@@ -1,0 +1,12 @@
+{
+    "ID": "532b2735-6a19-4025-9369-61f8199aabc9",
+    "ActionKeyword": "gameMode",
+    "Name": "Game Mode",
+    "Description": "TODO",
+    "Author": "Beriktabe",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "TODO",
+    "IcoPath": "Images\\ico.png",
+    "ExecuteFileName": "main.py"
+}
